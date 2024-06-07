@@ -22,17 +22,19 @@
     "url": "https://flori-richter.de",
     "icon": "https://icons.duckduckgo.com/ip3/flori-richter.de.ico",
     "slug": "resume",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
+    "time": 726,
     "timeDay": 949,
     "timeWeek": 894,
     "timeMonth": 744,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   }
 ]
