@@ -4,19 +4,19 @@
     "url": "https://nfl-tippspiel.de",
     "icon": "https://icons.duckduckgo.com/ip3/nfl-tippspiel.de.ico",
     "slug": "nfl-tippspiel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 614,
-    "timeWeek": 781,
-    "timeMonth": 708,
+    "time": 713,
+    "timeDay": 615,
+    "timeWeek": 760,
+    "timeMonth": 705,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-03-20": 1
+      "2025-03-20": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://flori-richter.de",
     "icon": "https://icons.duckduckgo.com/ip3/flori-richter.de.ico",
     "slug": "resume",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 712,
+    "time": 711,
     "timeDay": 601,
-    "timeWeek": 757,
-    "timeMonth": 705,
+    "timeWeek": 738,
+    "timeMonth": 701,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-20": 13
     }
   }
 ]
