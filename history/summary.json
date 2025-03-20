@@ -4,35 +4,39 @@
     "url": "https://nfl-tippspiel.de",
     "icon": "https://icons.duckduckgo.com/ip3/nfl-tippspiel.de.ico",
     "slug": "nfl-tippspiel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
+    "time": 714,
     "timeDay": 614,
     "timeWeek": 781,
     "timeMonth": 708,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 1
+    }
   },
   {
     "name": "Resume",
     "url": "https://flori-richter.de",
     "icon": "https://icons.duckduckgo.com/ip3/flori-richter.de.ico",
     "slug": "resume",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
+    "time": 712,
     "timeDay": 601,
     "timeWeek": 757,
     "timeMonth": 705,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 0
+    }
   }
 ]
