@@ -6,18 +6,16 @@
     "slug": "nfl-tippspiel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 615,
-    "timeWeek": 760,
-    "timeMonth": 705,
+    "timeDay": 599,
+    "timeWeek": 719,
+    "timeMonth": 704,
     "timeYear": 719,
-    "dailyMinutesDown": {
-      "2025-03-20": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Resume",
@@ -26,17 +24,15 @@
     "slug": "resume",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 601,
-    "timeWeek": 738,
+    "time": 710,
+    "timeDay": 593,
+    "timeWeek": 698,
     "timeMonth": 701,
     "timeYear": 718,
-    "dailyMinutesDown": {
-      "2025-03-20": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
